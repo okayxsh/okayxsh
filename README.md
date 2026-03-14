@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my productivity app!<br>I'd love to collaborate on a Machine learning/FullStack project<br>
+I'm currently working on my laptime prediction app!<br>I'd love to collaborate on a Machine learning/FullStack project<br>
 
 
 ## 🌐 Socials:
